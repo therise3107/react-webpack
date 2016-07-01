@@ -65,7 +65,7 @@
 /******/ 	}
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "96b31409c204d8f5a91b"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "72a15bb455cfdecf0f95"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -8215,7 +8215,7 @@
 	      return _react2.default.createElement(
 	        'p',
 	        null,
-	        ' Hello React! I am using babel6, npm , webpack and livereload'
+	        ' Hello React! I am using babel6, npm , webpack and livereload.'
 	      );
 	    }
 	  }]);
